@@ -1,2 +1,2 @@
 #Readme
-hey just for practice
+This repo is just for practice
